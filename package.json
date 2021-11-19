@@ -1,0 +1,14 @@
+{ "name": "jquery-dist-pmb",
+  "version": "0.1.0",
+  "description": "jQuery blobs mirror",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/jquery-dist-pmb-js.git"
+  },
+  "private": true, "license": "MIT",
+
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
